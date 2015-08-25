@@ -1,0 +1,13 @@
+document.write('<script language="JavaScript" src="/js/building.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/buildingrank.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/SpryData.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/objTask.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/itemConfig.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/item.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/task.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/errMsg.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/userrank.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/mailMsg.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/main.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/msg.js?v=2009070401"><\/script>');
+document.write('<script language="JavaScript" src="/js/display_common.js?v=2009070401"><\/script>');
